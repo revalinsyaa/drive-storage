@@ -45,3 +45,5 @@ CREATE TABLE room_nodes (
   node_id INT,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+shskjsbjksjb
